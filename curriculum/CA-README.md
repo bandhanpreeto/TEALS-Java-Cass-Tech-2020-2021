@@ -6,5 +6,5 @@ Some updates were made to adapt for Canadian use.
   
 To do:
 
-  * generate corresonding Word docs
+  * generate corresponding Word docs
   
